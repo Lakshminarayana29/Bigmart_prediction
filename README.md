@@ -6,6 +6,8 @@ The problem statement is to build a predictive model to determine the sales of e
 
 The aim is to develop a model that can accurately predict sales, which can help in identifying factors that drive sales and improve business decisions.
 
+# Dataset :https://training.github.com/downloads/github-git-cheat-sheet.pdf
+
 # Hypothesis Generation:
 
 1.)Brand: Branded products have more trust of the customers so they should have high sales
